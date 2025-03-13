@@ -1,1 +1,1 @@
-# runware-controlnet
+# Runware API for Image Generation
